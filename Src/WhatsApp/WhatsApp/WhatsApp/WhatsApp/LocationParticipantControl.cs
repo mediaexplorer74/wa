@@ -12,7 +12,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class LocationParticipantControl : UserItemControl

@@ -6,7 +6,7 @@
 
 using Microsoft.Xna.Framework.Media;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class AudioUtils

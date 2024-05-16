@@ -13,7 +13,7 @@ using System.Windows;
 using System.Windows.Controls;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupCallInfoPage : PhoneApplicationPage

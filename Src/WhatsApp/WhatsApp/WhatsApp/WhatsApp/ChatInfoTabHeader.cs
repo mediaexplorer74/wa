@@ -16,7 +16,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatInfoTabHeader : UserControl

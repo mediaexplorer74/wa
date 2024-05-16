@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public abstract class WaViewModelBase : WaDisposable, INotifyPropertyChanged

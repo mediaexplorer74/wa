@@ -25,7 +25,7 @@ using System.Windows.Threading;
 using WhatsApp.Events;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WebSessionsPage : PhoneApplicationPage

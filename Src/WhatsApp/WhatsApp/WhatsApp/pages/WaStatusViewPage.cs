@@ -23,7 +23,7 @@ using System.Windows.Shapes;
 using WhatsApp.CommonOps;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WaStatusViewPage : PhoneApplicationPage

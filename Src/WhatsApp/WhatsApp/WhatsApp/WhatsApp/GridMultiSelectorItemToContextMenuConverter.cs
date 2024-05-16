@@ -12,7 +12,7 @@ using System.Globalization;
 using System.Windows;
 using System.Windows.Data;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GridMultiSelectorItemToContextMenuConverter : IValueConverter

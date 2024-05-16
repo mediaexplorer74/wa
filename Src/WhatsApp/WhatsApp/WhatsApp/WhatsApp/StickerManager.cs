@@ -13,7 +13,7 @@ using System.Linq;
 using System.Text;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class StickerManager

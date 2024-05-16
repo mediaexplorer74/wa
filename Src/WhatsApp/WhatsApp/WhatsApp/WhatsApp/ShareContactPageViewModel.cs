@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ShareContactPageViewModel : PageViewModelBase

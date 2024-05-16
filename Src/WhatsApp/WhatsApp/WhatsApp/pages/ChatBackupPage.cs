@@ -18,7 +18,7 @@ using System.Windows.Navigation;
 using WhatsAppNative;
 using Windows.Foundation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatBackupPage : PhoneApplicationPage

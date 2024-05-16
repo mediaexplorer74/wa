@@ -10,7 +10,7 @@ using System;
 using System.IO;
 using System.Windows.Media.Imaging;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   public static class TakePicture

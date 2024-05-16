@@ -18,7 +18,7 @@ using System.Windows.Navigation;
 using WhatsApp.WaCollections;
 using Windows.Security.Authentication.OnlineId;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class HistoryRestore : PhoneApplicationPage

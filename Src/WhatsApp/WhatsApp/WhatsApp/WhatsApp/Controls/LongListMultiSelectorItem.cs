@@ -11,7 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Shapes;
 
-#nullable disable
+
 namespace WhatsApp.Controls
 {
   [TemplateVisualState(Name = "Opened", GroupName = "HasSelectionStates")]

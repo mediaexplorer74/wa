@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Globalization;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class SortedLocaleGrouping

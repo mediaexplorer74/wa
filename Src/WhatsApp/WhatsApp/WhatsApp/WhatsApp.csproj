@@ -635,6 +635,787 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Images\anim-check.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-frame.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-laptop.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-phone.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-qr-blurred.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-qr-normal.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-scan-check.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\anim-scan-frame.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\assets\dark\active-connections-chrome.png" />
+    <Content Include="Images\assets\dark\active-connections-edge.png" />
+    <Content Include="Images\assets\dark\active-connections-firefox.png" />
+    <Content Include="Images\assets\dark\active-connections-ie.png" />
+    <Content Include="Images\assets\dark\active-connections-opera.png" />
+    <Content Include="Images\assets\dark\active-connections-safari.png" />
+    <Content Include="Images\assets\dark\active-connections-unknown.png" />
+    <Content Include="Images\assets\dark\active-connections.png" />
+    <Content Include="Images\assets\dark\archive.png" />
+    <Content Include="Images\assets\dark\biz-badge-confirmed.png" />
+    <Content Include="Images\assets\dark\biz-badge-unknown.png" />
+    <Content Include="Images\assets\dark\biz-badge-verified.png" />
+    <Content Include="Images\assets\dark\biz-category.png" />
+    <Content Include="Images\assets\dark\biz-email.png" />
+    <Content Include="Images\assets\dark\biz-hours.png" />
+    <Content Include="Images\assets\dark\biz-info.png" />
+    <Content Include="Images\assets\dark\biz-insta.png" />
+    <Content Include="Images\assets\dark\biz-location.png" />
+    <Content Include="Images\assets\dark\biz-website.png" />
+    <Content Include="Images\assets\dark\bluetooth.png" />
+    <Content Include="Images\assets\dark\broadcast.png" />
+    <Content Include="Images\assets\dark\cancel.png" />
+    <Content Include="Images\assets\dark\chevron.png" />
+    <Content Include="Images\assets\dark\copy.png" />
+    <Content Include="Images\assets\dark\default-contact-icon-240x240.jpg" />
+    <Content Include="Images\assets\dark\default-contact-icon-240x480.jpg" />
+    <Content Include="Images\assets\dark\default-contact-icon-480x480.jpg" />
+    <Content Include="Images\assets\dark\default-contact-icon.png" />
+    <Content Include="Images\assets\dark\default-group-icon.png" />
+    <Content Include="Images\assets\dark\delete.png" />
+    <Content Include="Images\assets\dark\doc-list-file.png" />
+    <Content Include="Images\assets\dark\double-chevron.png" />
+    <Content Include="Images\assets\dark\emoji-activity.png" />
+    <Content Include="Images\assets\dark\emoji-back.png" />
+    <Content Include="Images\assets\dark\emoji-flags.png" />
+    <Content Include="Images\assets\dark\emoji-food.png" />
+    <Content Include="Images\assets\dark\emoji-nature.png" />
+    <Content Include="Images\assets\dark\emoji-objects.png" />
+    <Content Include="Images\assets\dark\emoji-people.png" />
+    <Content Include="Images\assets\dark\emoji-recent.png" />
+    <Content Include="Images\assets\dark\emoji-symbols.png" />
+    <Content Include="Images\assets\dark\emoji-travel.png" />
+    <Content Include="Images\assets\dark\encrypted.png" />
+    <Content Include="Images\assets\dark\exclude-check.png" />
+    <Content Include="Images\assets\dark\eye.png" />
+    <Content Include="Images\assets\dark\forward.png" />
+    <Content Include="Images\assets\dark\gdpr-report-icon.png" />
+    <Content Include="Images\assets\dark\handset.png" />
+    <Content Include="Images\assets\dark\illustration-no-starred.png" />
+    <Content Include="Images\assets\dark\include-check.png" />
+    <Content Include="Images\assets\dark\inline-100-check.png" />
+    <Content Include="Images\assets\dark\inline-100-clock.png" />
+    <Content Include="Images\assets\dark\inline-100-double-check.png" />
+    <Content Include="Images\assets\dark\inline-100-error.png" />
+    <Content Include="Images\assets\dark\inline-broadcast.png" />
+    <Content Include="Images\assets\dark\inline-check.png" />
+    <Content Include="Images\assets\dark\inline-clock.png" />
+    <Content Include="Images\assets\dark\inline-double-check.png" />
+    <Content Include="Images\assets\dark\inline-error.png" />
+    <Content Include="Images\assets\dark\inline-pin.png" />
+    <Content Include="Images\assets\dark\inline-status.png" />
+    <Content Include="Images\assets\dark\inputbar-attach.png" />
+    <Content Include="Images\assets\dark\inputbar-color.png" />
+    <Content Include="Images\assets\dark\inputbar-emoji.png" />
+    <Content Include="Images\assets\dark\inputbar-font-bryndan.png" />
+    <Content Include="Images\assets\dark\inputbar-font-georgia.png" />
+    <Content Include="Images\assets\dark\inputbar-font-norican.png" />
+    <Content Include="Images\assets\dark\inputbar-font-oswald.png" />
+    <Content Include="Images\assets\dark\inputbar-font-segue.png" />
+    <Content Include="Images\assets\dark\inputbar-keyboard.png" />
+    <Content Include="Images\assets\dark\inputbar-mic.png" />
+    <Content Include="Images\assets\dark\inputbar-send.png" />
+    <Content Include="Images\assets\dark\inputbar-status-emoji.png" />
+    <Content Include="Images\assets\dark\inputbar-status-send.png" />
+    <Content Include="Images\assets\dark\keypad-backspace.png" />
+    <Content Include="Images\assets\dark\keypad-custom.png" />
+    <Content Include="Images\assets\dark\keypad-emoji.png" />
+    <Content Include="Images\assets\dark\keypad-gif.png" />
+    <Content Include="Images\assets\dark\keypad-search.png" />
+    <Content Include="Images\assets\dark\keypad-sticker.png" />
+    <Content Include="Images\assets\dark\left-arrow.png" />
+    <Content Include="Images\assets\dark\log-out.png" />
+    <Content Include="Images\assets\dark\message.png" />
+    <Content Include="Images\assets\dark\mute-call.png" />
+    <Content Include="Images\assets\dark\mute.png" />
+    <Content Include="Images\assets\dark\phone-solid.png" />
+    <Content Include="Images\assets\dark\phone.png" />
+    <Content Include="Images\assets\dark\pin.png" />
+    <Content Include="Images\assets\dark\powered-by-bing.png" />
+    <Content Include="Images\assets\dark\recent-calls.png" />
+    <Content Include="Images\assets\dark\retry.png" />
+    <Content Include="Images\assets\dark\security-settings-padlock.png" />
+    <Content Include="Images\assets\dark\slide-to-cancel-mask-chrome.png" />
+    <Content Include="Images\assets\dark\slide-to-cancel-mask.png" />
+    <Content Include="Images\assets\dark\speaker.png" />
+    <Content Include="Images\assets\dark\status.png" />
+    <Content Include="Images\assets\dark\sticker-download.png" />
+    <Content Include="Images\assets\dark\sticker-error.png" />
+    <Content Include="Images\assets\dark\sticker-reaction1.png" />
+    <Content Include="Images\assets\dark\sticker-reaction2.png" />
+    <Content Include="Images\assets\dark\sticker-reaction3.png" />
+    <Content Include="Images\assets\dark\sticker-reaction4.png" />
+    <Content Include="Images\assets\dark\sticker-recent.png" />
+    <Content Include="Images\assets\dark\sticker-saved.png" />
+    <Content Include="Images\assets\dark\title-msg.png" />
+    <Content Include="Images\assets\dark\title-phone.png" />
+    <Content Include="Images\assets\dark\unencrypted.png" />
+    <Content Include="Images\assets\dark\unmute.png" />
+    <Content Include="Images\assets\dark\unpin.png" />
+    <Content Include="Images\assets\dark\video-solid.png" />
+    <Content Include="Images\assets\dark\video.png" />
+    <Content Include="Images\assets\dark\volume-mute.png" />
+    <Content Include="Images\assets\dark\volume.png" />
+    <Content Include="Images\assets\dark\wa-callscreen-icon.png" />
+    <Content Include="Images\assets\dark\whatsapp-icon.png" />
+    <Content Include="Images\assets\dark\whatsapp-icon2.png" />
+    <Content Include="Images\assets\light\active-connections.png" />
+    <Content Include="Images\assets\light\biz-badge-confirmed.png" />
+    <Content Include="Images\assets\light\biz-badge-unknown.png" />
+    <Content Include="Images\assets\light\biz-badge-verified.png" />
+    <Content Include="Images\assets\light\biz-category.png" />
+    <Content Include="Images\assets\light\biz-email.png" />
+    <Content Include="Images\assets\light\biz-hours.png" />
+    <Content Include="Images\assets\light\biz-info.png" />
+    <Content Include="Images\assets\light\biz-insta.png" />
+    <Content Include="Images\assets\light\biz-location.png" />
+    <Content Include="Images\assets\light\biz-website.png" />
+    <Content Include="Images\assets\light\cancel.png" />
+    <Content Include="Images\assets\light\chevron.png" />
+    <Content Include="Images\assets\light\default-contact-icon-240x240.jpg" />
+    <Content Include="Images\assets\light\default-contact-icon-240x480.jpg" />
+    <Content Include="Images\assets\light\default-contact-icon-480x480.jpg" />
+    <Content Include="Images\assets\light\default-contact-icon.png" />
+    <Content Include="Images\assets\light\default-group-icon.png" />
+    <Content Include="Images\assets\light\doc-list-file.png" />
+    <Content Include="Images\assets\light\double-chevron.png" />
+    <Content Include="Images\assets\light\emoji-activity.png" />
+    <Content Include="Images\assets\light\emoji-back.png" />
+    <Content Include="Images\assets\light\emoji-flags.png" />
+    <Content Include="Images\assets\light\emoji-food.png" />
+    <Content Include="Images\assets\light\emoji-nature.png" />
+    <Content Include="Images\assets\light\emoji-objects.png" />
+    <Content Include="Images\assets\light\emoji-people.png" />
+    <Content Include="Images\assets\light\emoji-recent.png" />
+    <Content Include="Images\assets\light\emoji-search.png" />
+    <Content Include="Images\assets\light\emoji-symbols.png" />
+    <Content Include="Images\assets\light\emoji-travel.png" />
+    <Content Include="Images\assets\light\encrypted.png" />
+    <Content Include="Images\assets\light\exclude-check.png" />
+    <Content Include="Images\assets\light\gdpr-report-icon.png" />
+    <Content Include="Images\assets\light\illustration-no-starred.png" />
+    <Content Include="Images\assets\light\include-check.png" />
+    <Content Include="Images\assets\light\inline-check.png" />
+    <Content Include="Images\assets\light\inline-clock.png" />
+    <Content Include="Images\assets\light\inline-double-check.png" />
+    <Content Include="Images\assets\light\inline-error.png" />
+    <Content Include="Images\assets\light\inline-status.png" />
+    <Content Include="Images\assets\light\inputbar-attach.png" />
+    <Content Include="Images\assets\light\inputbar-emoji.png" />
+    <Content Include="Images\assets\light\inputbar-keyboard.png" />
+    <Content Include="Images\assets\light\inputbar-mic.png" />
+    <Content Include="Images\assets\light\inputbar-send.png" />
+    <Content Include="Images\assets\light\keypad-cancel.png" />
+    <Content Include="Images\assets\light\keypad-emoji.png" />
+    <Content Include="Images\assets\light\keypad-gif.png" />
+    <Content Include="Images\assets\light\keypad-search.png" />
+    <Content Include="Images\assets\light\keypad-sticker.png" />
+    <Content Include="Images\assets\light\left-arrow.png" />
+    <Content Include="Images\assets\light\powered-by-bing.png" />
+    <Content Include="Images\assets\light\retry.png" />
+    <Content Include="Images\assets\light\security-settings-padlock.png" />
+    <Content Include="Images\assets\light\slide-to-cancel-mask-chrome.png" />
+    <Content Include="Images\assets\light\slide-to-cancel-mask.png" />
+    <Content Include="Images\assets\light\status.png" />
+    <Content Include="Images\assets\light\sticker-download.png" />
+    <Content Include="Images\assets\light\sticker-error.png" />
+    <Content Include="Images\assets\light\sticker-reaction1.png" />
+    <Content Include="Images\assets\light\sticker-reaction2.png" />
+    <Content Include="Images\assets\light\sticker-reaction3.png" />
+    <Content Include="Images\assets\light\sticker-reaction4.png" />
+    <Content Include="Images\assets\light\sticker-recent.png" />
+    <Content Include="Images\assets\light\sticker-saved.png" />
+    <Content Include="Images\assets\light\unencrypted.png" />
+    <Content Include="Images\assets\notheme\add.png" />
+    <Content Include="Images\assets\notheme\attach-audio.png" />
+    <Content Include="Images\assets\notheme\attach-camera.png" />
+    <Content Include="Images\assets\notheme\attach-contact.png" />
+    <Content Include="Images\assets\notheme\attach-doc.png" />
+    <Content Include="Images\assets\notheme\attach-location.png" />
+    <Content Include="Images\assets\notheme\attach-picture.png" />
+    <Content Include="Images\assets\notheme\attach-video.png" />
+    <Content Include="Images\assets\notheme\attach.png" />
+    <Content Include="Images\assets\notheme\change-num-phone.png" />
+    <Content Include="Images\assets\notheme\check.png" />
+    <Content Include="Images\assets\notheme\doc-list-doc.png" />
+    <Content Include="Images\assets\notheme\doc-list-pdf.png" />
+    <Content Include="Images\assets\notheme\doc-list-ppt.png" />
+    <Content Include="Images\assets\notheme\doc-list-xls.png" />
+    <Content Include="Images\assets\notheme\emoji.png" />
+    <Content Include="Images\assets\notheme\encrypted-message.png" />
+    <Content Include="Images\assets\notheme\forward-arrow.png" />
+    <Content Include="Images\assets\notheme\gdpr-tos-bg.png" />
+    <Content Include="Images\assets\notheme\icon-livelocation.png" />
+    <Content Include="Images\assets\notheme\icon_verified.png" />
+    <Content Include="Images\assets\notheme\inline-audio.png" />
+    <Content Include="Images\assets\notheme\inline-blue-checks.png" />
+    <Content Include="Images\assets\notheme\inline-blue-mic.png" />
+    <Content Include="Images\assets\notheme\inline-contact.png" />
+    <Content Include="Images\assets\notheme\inline-doc.png" />
+    <Content Include="Images\assets\notheme\inline-gif.png" />
+    <Content Include="Images\assets\notheme\inline-green-mic.png" />
+    <Content Include="Images\assets\notheme\inline-livelocation-white.png" />
+    <Content Include="Images\assets\notheme\inline-location.png" />
+    <Content Include="Images\assets\notheme\inline-mic.png" />
+    <Content Include="Images\assets\notheme\inline-mute.png" />
+    <Content Include="Images\assets\notheme\inline-picture.png" />
+    <Content Include="Images\assets\notheme\inline-revoke-white.png" />
+    <Content Include="Images\assets\notheme\inline-sticker.png" />
+    <Content Include="Images\assets\notheme\inline-video.png" />
+    <Content Include="Images\assets\notheme\inputbar-mic-red.png" />
+    <Content Include="Images\assets\notheme\keyboard.png" />
+    <Content Include="Images\assets\notheme\link-icon.png" />
+    <Content Include="Images\assets\notheme\mic-black.png" />
+    <Content Include="Images\assets\notheme\mic-red.png" />
+    <Content Include="Images\assets\notheme\mic-subtle.png" />
+    <Content Include="Images\assets\notheme\mic-white.png" />
+    <Content Include="Images\assets\notheme\msgbubble-doc-icon.png" />
+    <Content Include="Images\assets\notheme\msgbubble-file-icon.png" />
+    <Content Include="Images\assets\notheme\msgbubble-pdf-icon.png" />
+    <Content Include="Images\assets\notheme\msgbubble-ppt-icon.png" />
+    <Content Include="Images\assets\notheme\msgbubble-xls-icon.png" />
+    <Content Include="Images\assets\notheme\payment-bg.png" />
+    <Content Include="Images\assets\notheme\restore-progress.png" />
+    <Content Include="Images\assets\notheme\revoked-message.png" />
+    <Content Include="Images\assets\notheme\sendmsg.png" />
+    <Content Include="Images\assets\notheme\tell-a-friend-icon.png" />
+    <Content Include="Images\assets\notheme\textbox-action-emoji.png" />
+    <Content Include="Images\assets\notheme\textbox-action-keyboard.png" />
+    <Content Include="Images\assets\notheme\tos-update.png" />
+    <Content Include="Images\assets\notheme\unsupported-message.png" />
+    <Content Include="Images\assets\notheme\whatsapp-avatar.png" />
+    <Content Include="Images\assets\notheme\x.png" />
+    <Content Include="Images\Background.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\backup-card.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\backup-onedrive.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\backup-phone.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\backup-smile.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\BadgeIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\camera-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\camera\crop-icon.png" />
+    <Content Include="Images\camera\gif-vid-toggle-background.png" />
+    <Content Include="Images\camera\icon-add-cam.png" />
+    <Content Include="Images\camera\icon-add-photos.png" />
+    <Content Include="Images\camera\icon-cam-autoflash-b.png" />
+    <Content Include="Images\camera\icon-cam-autoflash.png" />
+    <Content Include="Images\camera\icon-cam-capture-b.png" />
+    <Content Include="Images\camera\icon-cam-capture.png" />
+    <Content Include="Images\camera\icon-cam-flash.png" />
+    <Content Include="Images\camera\icon-cam-noflash.png" />
+    <Content Include="Images\camera\icon-cam-switch.png" />
+    <Content Include="Images\camera\icon-cam-tip.png" />
+    <Content Include="Images\camera\icon-chevron.png" />
+    <Content Include="Images\camera\icon-draw.png" />
+    <Content Include="Images\camera\icon-emoji.png" />
+    <Content Include="Images\camera\icon-open-gallery.png" />
+    <Content Include="Images\camera\icon-rotate.png" />
+    <Content Include="Images\camera\icon-send.png" />
+    <Content Include="Images\camera\icon-text.png" />
+    <Content Include="Images\camera\icon-trash.png" />
+    <Content Include="Images\camera\icon-undo.png" />
+    <Content Include="Images\camera\toggle-gif.png" />
+    <Content Include="Images\camera\toggle-video.png" />
+    <Content Include="Images\check-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\check.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\chrome-1080p.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\contact-support-send-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\contact-support.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\crop-ratio.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\crop.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\download-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\download.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\edit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\email.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\emoji.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\emojis\fullset\fullset-00.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-01.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-02.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-03.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-04.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-05.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-06.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-07.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-08.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-09.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-10.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-11.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-12.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-13.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-14.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-15.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-16.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-17.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-18.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-19.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-20.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-21.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-22.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-23.-64.png" />
+    <Content Include="Images\emojis\fullset\fullset-24.-64.png" />
+    <Content Include="Images\emojis\sticker-E022.png" />
+    <Content Include="Images\gallery-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\gif-icon-square.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\gif-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\gift_box.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\giphy.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-add-recipient.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-bgdata-restricted-black.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-bgdata-restricted-white.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-cog.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-contact.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-currentlocation.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-faq.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-gallery-hr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-save.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-search-web.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-update-store-black.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-update-store.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-update.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-verification-failure.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\icon-verification-success.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\IconicTileMedium.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\IconicTileSmall.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\keypad_gif.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\keypad_search.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\loc-drop-pin-dot.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\loc-drop-pin-green.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\loc-icon-pin.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\loc-layers.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\loc-place-small.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\loc-shadow-small.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\LockIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\log-out-1080p.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\logo-lr.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\map_loading.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\media-view-bottom-overlay.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\mic-blue-hd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\mic-green-hd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\mic-grey-hd.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\multisend-add-cam.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\multisend-add.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\multisend-selected-mark.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\navigate.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\newgroup.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\next-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\next.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\nux_live_location.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\overflowdots.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pause-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pause.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\phone.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\pin-to-start.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Places\Dark\airport.png" />
+    <Content Include="Images\Places\Dark\amusement_park.png" />
+    <Content Include="Images\Places\Dark\art_gallery.png" />
+    <Content Include="Images\Places\Dark\atm.png" />
+    <Content Include="Images\Places\Dark\bar.png" />
+    <Content Include="Images\Places\Dark\beauty_salon.png" />
+    <Content Include="Images\Places\Dark\bicycle_store.png" />
+    <Content Include="Images\Places\Dark\bowling_alley.png" />
+    <Content Include="Images\Places\Dark\bus.png" />
+    <Content Include="Images\Places\Dark\cafe.png" />
+    <Content Include="Images\Places\Dark\campground.png" />
+    <Content Include="Images\Places\Dark\car_dealer.png" />
+    <Content Include="Images\Places\Dark\casino.png" />
+    <Content Include="Images\Places\Dark\civic_building.png" />
+    <Content Include="Images\Places\Dark\courthouse.png" />
+    <Content Include="Images\Places\Dark\dentist.png" />
+    <Content Include="Images\Places\Dark\doctor.png" />
+    <Content Include="Images\Places\Dark\electronics.png" />
+    <Content Include="Images\Places\Dark\fitness.png" />
+    <Content Include="Images\Places\Dark\flower.png" />
+    <Content Include="Images\Places\Dark\gas_station.png" />
+    <Content Include="Images\Places\Dark\generic_business.png" />
+    <Content Include="Images\Places\Dark\geocode.png" />
+    <Content Include="Images\Places\Dark\jewelry_store.png" />
+    <Content Include="Images\Places\Dark\library.png" />
+    <Content Include="Images\Places\Dark\lodging.png" />
+    <Content Include="Images\Places\Dark\monument.png" />
+    <Content Include="Images\Places\Dark\movies.png" />
+    <Content Include="Images\Places\Dark\museum.png" />
+    <Content Include="Images\Places\Dark\office-71.png" />
+    <Content Include="Images\Places\Dark\pet_store.png" />
+    <Content Include="Images\Places\Dark\police.png" />
+    <Content Include="Images\Places\Dark\political.png" />
+    <Content Include="Images\Places\Dark\post_office.png" />
+    <Content Include="Images\Places\Dark\repair.png" />
+    <Content Include="Images\Places\Dark\restaurant.png" />
+    <Content Include="Images\Places\Dark\school.png" />
+    <Content Include="Images\Places\Dark\store.png" />
+    <Content Include="Images\Places\Dark\supermarket.png" />
+    <Content Include="Images\Places\Dark\taxi.png" />
+    <Content Include="Images\Places\Dark\train.png" />
+    <Content Include="Images\Places\Dark\travel_agent.png" />
+    <Content Include="Images\Places\Dark\truck.png" />
+    <Content Include="Images\Places\Dark\university.png" />
+    <Content Include="Images\Places\Dark\wine.png" />
+    <Content Include="Images\Places\Dark\worship_general.png" />
+    <Content Include="Images\Places\Dark\zoo.png" />
+    <Content Include="Images\Places\Light\airport.png" />
+    <Content Include="Images\Places\Light\amusement_park.png" />
+    <Content Include="Images\Places\Light\aquarium.png" />
+    <Content Include="Images\Places\Light\art_gallery.png" />
+    <Content Include="Images\Places\Light\atm.png" />
+    <Content Include="Images\Places\Light\bar.png" />
+    <Content Include="Images\Places\Light\beauty_salon.png" />
+    <Content Include="Images\Places\Light\bicycle_store.png" />
+    <Content Include="Images\Places\Light\bowling_alley.png" />
+    <Content Include="Images\Places\Light\bus.png" />
+    <Content Include="Images\Places\Light\cafe.png" />
+    <Content Include="Images\Places\Light\campground.png" />
+    <Content Include="Images\Places\Light\car_dealer.png" />
+    <Content Include="Images\Places\Light\casino.png" />
+    <Content Include="Images\Places\Light\civic_building.png" />
+    <Content Include="Images\Places\Light\courthouse.png" />
+    <Content Include="Images\Places\Light\dentist.png" />
+    <Content Include="Images\Places\Light\doctor.png" />
+    <Content Include="Images\Places\Light\electronics.png" />
+    <Content Include="Images\Places\Light\fitness.png" />
+    <Content Include="Images\Places\Light\flower.png" />
+    <Content Include="Images\Places\Light\gas_station.png" />
+    <Content Include="Images\Places\Light\generic_business.png" />
+    <Content Include="Images\Places\Light\geocode.png" />
+    <Content Include="Images\Places\Light\jewelry_store.png" />
+    <Content Include="Images\Places\Light\library.png" />
+    <Content Include="Images\Places\Light\lodging.png" />
+    <Content Include="Images\Places\Light\monument.png" />
+    <Content Include="Images\Places\Light\movies.png" />
+    <Content Include="Images\Places\Light\museum.png" />
+    <Content Include="Images\Places\Light\office-71.png" />
+    <Content Include="Images\Places\Light\park-71.png" />
+    <Content Include="Images\Places\Light\pet_store.png" />
+    <Content Include="Images\Places\Light\police.png" />
+    <Content Include="Images\Places\Light\political.png" />
+    <Content Include="Images\Places\Light\post_office.png" />
+    <Content Include="Images\Places\Light\repair.png" />
+    <Content Include="Images\Places\Light\restaurant.png" />
+    <Content Include="Images\Places\Light\school.png" />
+    <Content Include="Images\Places\Light\store.png" />
+    <Content Include="Images\Places\Light\supermarket.png" />
+    <Content Include="Images\Places\Light\taxi.png" />
+    <Content Include="Images\Places\Light\train.png" />
+    <Content Include="Images\Places\Light\travel_agent.png" />
+    <Content Include="Images\Places\Light\university.png" />
+    <Content Include="Images\Places\Light\wine.png" />
+    <Content Include="Images\Places\Light\worship_general.png" />
+    <Content Include="Images\Places\Light\zoo.png" />
+    <Content Include="Images\play-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\play-button-black.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\play-button.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\play.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\powered-by-facebook-on-non-white.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\powered-by-facebook-on-white.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\powered-by-foursquare.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\prev.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\refresh.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\reg-phone-icon-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\reg-phone-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\reset.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\rotate.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\sad-phone.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\search.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\select.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\sendmsg.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\SquareTile150x150.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\SquareTile40x40.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\SquareTile71x71.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\stop-large.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\stop.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\tell-a-friend-icon-black.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\tell-a-friend-icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\tenor.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Tile150x150.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Tile310x150.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Tile44x44.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Tile71x71.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\upload-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\upload.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\voip\dark\icon_add.png" />
+    <Content Include="Images\voip\dark\icon_answer-call.png" />
+    <Content Include="Images\voip\dark\icon_bluetooth.png" />
+    <Content Include="Images\voip\dark\icon_call-end.png" />
+    <Content Include="Images\voip\dark\icon_camera.png" />
+    <Content Include="Images\voip\dark\icon_decline.png" />
+    <Content Include="Images\voip\dark\icon_message.png" />
+    <Content Include="Images\voip\dark\icon_mute.png" />
+    <Content Include="Images\voip\dark\icon_speaker.png" />
+    <Content Include="Images\voip\dark\icon_video.png" />
+    <Content Include="Images\voip\dark\icon_video_off.png" />
+    <Content Include="Images\voip\light\icon_add.png" />
+    <Content Include="Images\voip\light\icon_answer-call.png" />
+    <Content Include="Images\voip\light\icon_bluetooth.png" />
+    <Content Include="Images\voip\light\icon_call-end.png" />
+    <Content Include="Images\voip\light\icon_camera.png" />
+    <Content Include="Images\voip\light\icon_decline.png" />
+    <Content Include="Images\voip\light\icon_message.png" />
+    <Content Include="Images\voip\light\icon_mute.png" />
+    <Content Include="Images\voip\light\icon_speaker.png" />
+    <Content Include="Images\voip\light\icon_video.png" />
+    <Content Include="Images\voip\light\icon_video_off.png" />
+    <Content Include="Images\wallpaper-placeholder-black.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\wallpaper-placeholder-white.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Images\Wallpapers\10.jpg" />
+    <Content Include="Images\Wallpapers\12.jpg" />
+    <Content Include="Images\Wallpapers\13.jpg" />
+    <Content Include="Images\Wallpapers\20.jpg" />
+    <Content Include="Images\Wallpapers\21.jpg" />
+    <Content Include="Images\Wallpapers\22.jpg" />
+    <Content Include="Images\Wallpapers\23.jpg" />
+    <Content Include="Images\Wallpapers\24.jpg" />
+    <Content Include="Images\Wallpapers\3.jpg" />
+    <Content Include="Images\Wallpapers\34.png" />
+    <Content Include="Images\Wallpapers\39.jpg" />
+    <Content Include="Images\Wallpapers\4.jpg" />
+    <Content Include="Images\Wallpapers\40.jpg" />
+    <Content Include="Images\Wallpapers\41.jpg" />
+    <Content Include="Images\Wallpapers\5.jpg" />
+    <Content Include="Images\Wallpapers\8.jpg" />
+    <Content Include="Images\Wallpapers\9.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\10.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\12.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\13.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\20.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\21.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\22.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\23.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\24.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\3.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\34.png" />
+    <Content Include="Images\Wallpapers\Thumbnails\39.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\4.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\40.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\41.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\5.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\8.jpg" />
+    <Content Include="Images\Wallpapers\Thumbnails\9.jpg" />
+    <Content Include="Images\x-active.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
@@ -1336,6 +2117,61 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\ConnectionFaqPages\ar.txt" />
+    <Content Include="Resources\ConnectionFaqPages\az.txt" />
+    <Content Include="Resources\ConnectionFaqPages\bg.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ca.txt" />
+    <Content Include="Resources\ConnectionFaqPages\cs.txt" />
+    <Content Include="Resources\ConnectionFaqPages\da.txt" />
+    <Content Include="Resources\ConnectionFaqPages\de.txt" />
+    <Content Include="Resources\ConnectionFaqPages\el.txt" />
+    <Content Include="Resources\ConnectionFaqPages\en.txt" />
+    <Content Include="Resources\ConnectionFaqPages\es.txt" />
+    <Content Include="Resources\ConnectionFaqPages\et.txt" />
+    <Content Include="Resources\ConnectionFaqPages\fa.txt" />
+    <Content Include="Resources\ConnectionFaqPages\fi.txt" />
+    <Content Include="Resources\ConnectionFaqPages\fr.txt" />
+    <Content Include="Resources\ConnectionFaqPages\gu.txt" />
+    <Content Include="Resources\ConnectionFaqPages\he.txt" />
+    <Content Include="Resources\ConnectionFaqPages\hi.txt" />
+    <Content Include="Resources\ConnectionFaqPages\hr.txt" />
+    <Content Include="Resources\ConnectionFaqPages\hu.txt" />
+    <Content Include="Resources\ConnectionFaqPages\id.txt" />
+    <Content Include="Resources\ConnectionFaqPages\it.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ja.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ko.txt" />
+    <Content Include="Resources\ConnectionFaqPages\lt.txt" />
+    <Content Include="Resources\ConnectionFaqPages\lv.txt" />
+    <Content Include="Resources\ConnectionFaqPages\mk.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ms.txt" />
+    <Content Include="Resources\ConnectionFaqPages\nb.txt" />
+    <Content Include="Resources\ConnectionFaqPages\nl.txt" />
+    <Content Include="Resources\ConnectionFaqPages\pl.txt" />
+    <Content Include="Resources\ConnectionFaqPages\pt_br.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ro.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ru.txt" />
+    <Content Include="Resources\ConnectionFaqPages\sk.txt" />
+    <Content Include="Resources\ConnectionFaqPages\sl.txt" />
+    <Content Include="Resources\ConnectionFaqPages\sr.txt" />
+    <Content Include="Resources\ConnectionFaqPages\ta.txt" />
+    <Content Include="Resources\ConnectionFaqPages\th.txt" />
+    <Content Include="Resources\ConnectionFaqPages\tr.txt" />
+    <Content Include="Resources\ConnectionFaqPages\uk.txt" />
+    <Content Include="Resources\ConnectionFaqPages\vi.txt" />
+    <Content Include="Resources\ConnectionFaqPages\zh_cn.txt" />
+    <Content Include="Resources\ConnectionFaqPages\zh_tw.txt" />
+    <Content Include="Resources\license.txt" />
+    <Content Include="Sounds\end_call.wav" />
+    <Content Include="Sounds\incoming.wav" />
+    <Content Include="Sounds\incomingshort.wav" />
+    <Content Include="Sounds\NokiaCalendar.mp3" />
+    <Content Include="Sounds\NokiaEmail.mp3" />
+    <Content Include="Sounds\NokiaMessage.mp3" />
+    <Content Include="Sounds\send_message.wav" />
+    <Content Include="Sounds\Shutter.wav" />
+    <Content Include="Sounds\voice_note_error.wav" />
+    <Content Include="Sounds\voice_note_start.wav" />
+    <Content Include="Sounds\voice_note_stop.wav" />
     <Content Include="WhatsApp\Fonts\Bryndan-Write.ttf" />
   </ItemGroup>
   <ItemGroup>
@@ -1343,6 +2179,50 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="WhatsApp\Fonts\Oswald-Heavy.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="certs\01.crt" />
+    <None Include="certs\02.crt" />
+    <None Include="certs\03.crt" />
+    <None Include="certs\04.crt" />
+    <None Include="certs\05.crt" />
+    <None Include="certs\06.crt" />
+    <None Include="certs\07.crt" />
+    <None Include="countries.tsv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="Fonts\Bryndan-Write.ttf" />
+    <Content Include="Fonts\Norican-Regular.ttf" />
+    <Content Include="Fonts\Oswald-Heavy.ttf" />
+    <None Include="hosts">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <Content Include="Sounds\Alert-01.wma" />
+    <Content Include="Sounds\Alert-02.wma" />
+    <Content Include="Sounds\Alert-03.wma" />
+    <Content Include="Sounds\Alert-04.wma" />
+    <Content Include="Sounds\Alert-05.wma" />
+    <Content Include="Sounds\Alert-06.wma" />
+    <Content Include="Sounds\Alert-07.wma" />
+    <Content Include="Sounds\Alert-08.wma" />
+    <Content Include="Sounds\Alert-09.wma" />
+    <Content Include="Sounds\Alert-10.wma" />
+    <Content Include="Sounds\Alert_calendar.wma" />
+    <Content Include="Sounds\Ring01.wma" />
+    <Content Include="Sounds\Ring02.wma" />
+    <Content Include="Sounds\Ring03.wma" />
+    <Content Include="Sounds\Ring05.wma" />
+    <None Include="Sounds\silent" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WhatsAppCommon\WhatsAppCommon.csproj">
+      <Project>{716bfe27-bc34-4177-81fd-36346d615de5}</Project>
+      <Name>WhatsAppCommon</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WhatsAppNative\WhatsAppNative.csproj">
+      <Project>{bc41828c-dd44-45c8-a247-81defa40d49b}</Project>
+      <Name>WhatsAppNative</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>

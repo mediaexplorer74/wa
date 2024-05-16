@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Shapes;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class QuotedMessageViewPanel : MessageViewPanel

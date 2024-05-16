@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Windows;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PttDispatchMediaPlayer : IWaMediaPlayer

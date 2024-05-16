@@ -10,7 +10,7 @@ using System;
 using System.Windows;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   public static class CallContact

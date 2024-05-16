@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Shapes;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class AudioMessageViewPanel : MessageViewPanel

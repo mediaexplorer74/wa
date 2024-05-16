@@ -12,7 +12,7 @@ using System.Windows.Controls;
 using System.Windows.Markup;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp.Pages
 {
   public class ChatCountItemControl : ChatItemControl

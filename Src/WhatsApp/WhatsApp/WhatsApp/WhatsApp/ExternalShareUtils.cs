@@ -8,7 +8,7 @@ using System;
 using System.IO;
 using System.Runtime.InteropServices;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ExternalShareUtils

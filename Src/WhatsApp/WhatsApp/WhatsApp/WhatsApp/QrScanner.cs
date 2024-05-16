@@ -20,7 +20,7 @@ using ZXing;
 using ZXing.Common;
 using ZXing.QrCode;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class QrScanner : UserControl

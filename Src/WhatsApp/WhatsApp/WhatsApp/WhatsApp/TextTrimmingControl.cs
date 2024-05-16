@@ -13,7 +13,7 @@ using System.Windows.Controls;
 using System.Windows.Documents;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class TextTrimmingControl : ContentControl

@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class MediaLibraryExtensions

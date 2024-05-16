@@ -9,7 +9,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   internal static class MediaPlayerHelper

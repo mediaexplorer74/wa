@@ -21,7 +21,7 @@ using WhatsApp.Events;
 using WhatsApp.Streaming;
 using WhatsApp.UtilsFrontend;
 
-#nullable disable
+
 namespace WhatsApp.Pages
 {
   public class VideoPlayerPage : 

@@ -11,7 +11,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Shapes;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PlaybackSlider : UserControl

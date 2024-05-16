@@ -24,7 +24,7 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class LiveLocationView : PhoneApplicationPage

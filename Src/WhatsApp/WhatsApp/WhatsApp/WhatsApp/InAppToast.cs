@@ -10,7 +10,7 @@ using System.Windows;
 using System.Windows.Navigation;
 using System.Windows.Threading;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class InAppToast : InAppFloatingBanner

@@ -7,7 +7,7 @@
 using Microsoft.Devices;
 using System.Threading.Tasks;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public interface IWACamera

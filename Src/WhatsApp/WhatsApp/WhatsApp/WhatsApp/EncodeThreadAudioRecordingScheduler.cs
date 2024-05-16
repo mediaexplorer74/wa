@@ -7,7 +7,7 @@
 using System;
 using System.Threading;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class EncodeThreadAudioRecordingScheduler : AudioRecordingScheduler

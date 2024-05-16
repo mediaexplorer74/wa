@@ -6,7 +6,7 @@
 
 using System.Collections.Generic;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public interface CharGroupingImpl

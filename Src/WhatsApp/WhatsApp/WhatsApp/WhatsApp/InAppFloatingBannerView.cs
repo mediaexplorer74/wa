@@ -13,7 +13,7 @@ using System.Windows.Controls;
 using System.Windows.Media.Animation;
 using System.Windows.Threading;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class InAppFloatingBannerView : UserControl, IInAppFloatingBannerView

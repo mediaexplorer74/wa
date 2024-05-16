@@ -14,7 +14,7 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class SettingsPage : PhoneApplicationPage

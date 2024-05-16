@@ -10,7 +10,7 @@ using System;
 using System.Windows;
 using System.Windows.Threading;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   public static class AddContact

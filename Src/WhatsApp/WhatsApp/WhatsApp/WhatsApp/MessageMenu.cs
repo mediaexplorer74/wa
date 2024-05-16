@@ -12,7 +12,7 @@ using System.Windows;
 using WhatsApp.CommonOps;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class MessageMenu

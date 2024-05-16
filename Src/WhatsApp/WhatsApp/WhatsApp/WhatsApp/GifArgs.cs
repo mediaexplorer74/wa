@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Windows.Media.Imaging;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GifArgs

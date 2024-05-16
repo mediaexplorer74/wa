@@ -10,7 +10,7 @@ using System.IO;
 using System.Windows;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class LiveLocationMessageViewModel : LocationMessageViewModel

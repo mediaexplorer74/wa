@@ -8,7 +8,7 @@ using Microsoft.Phone.Controls;
 using System.Windows;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MessageDetailPageViewModel : PageViewModelBase

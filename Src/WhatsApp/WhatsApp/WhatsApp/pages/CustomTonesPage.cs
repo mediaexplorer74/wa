@@ -13,7 +13,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CustomTonesPage : PhoneApplicationPage

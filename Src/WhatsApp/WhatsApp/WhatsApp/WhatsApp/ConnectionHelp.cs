@@ -13,7 +13,7 @@ using System.Windows;
 using System.Windows.Controls;
 using WhatsApp.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ConnectionHelp : PhoneApplicationPage

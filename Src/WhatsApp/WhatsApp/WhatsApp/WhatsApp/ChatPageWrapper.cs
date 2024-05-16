@@ -6,7 +6,7 @@
 
 using Microsoft.Phone.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatPageWrapper : PageWrapper

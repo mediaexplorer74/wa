@@ -12,7 +12,7 @@ using System.Linq;
 using System.Windows;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MultiParticipantsMessageDeliveryState : MessageDeliveryState

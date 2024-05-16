@@ -31,7 +31,7 @@ using Windows.Storage;
 using Windows.Storage.Pickers;
 using Windows.Storage.Streams;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ContactSupportPage : PhoneApplicationPage

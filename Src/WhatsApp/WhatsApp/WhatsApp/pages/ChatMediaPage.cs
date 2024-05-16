@@ -24,7 +24,7 @@ using Windows.ApplicationModel.DataTransfer;
 using Windows.Foundation;
 using Windows.Storage;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatMediaPage : PhoneApplicationPage

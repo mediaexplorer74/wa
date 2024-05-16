@@ -9,7 +9,7 @@ using System;
 using System.Runtime.InteropServices;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public abstract class WaAudioRouting : WaDisposable

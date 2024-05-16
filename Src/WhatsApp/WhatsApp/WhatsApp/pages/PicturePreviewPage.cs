@@ -29,7 +29,7 @@ using WhatsApp.Events;
 using WhatsApp.WaCollections;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PicturePreviewPage : PhoneApplicationPage

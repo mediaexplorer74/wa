@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CharGroupingFromSystem : CharGroupingImpl

@@ -15,7 +15,7 @@ using System.Windows.Navigation;
 using System.Windows.Threading;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp.verify
 {
   public class VerifyStart : PhoneApplicationPage

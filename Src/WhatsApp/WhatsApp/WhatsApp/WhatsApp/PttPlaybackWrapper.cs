@@ -13,7 +13,7 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Media;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   internal class PttPlaybackWrapper : IDisposable

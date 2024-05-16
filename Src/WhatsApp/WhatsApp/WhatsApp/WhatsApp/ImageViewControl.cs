@@ -14,7 +14,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ImageViewControl : UserControl

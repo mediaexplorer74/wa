@@ -10,7 +10,7 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Media;
 using WhatsApp.CompatibilityShims;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ParallaxLongListSelector : LongListSelector

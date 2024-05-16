@@ -7,7 +7,7 @@
 using System;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MediaListWithName : IDisposable

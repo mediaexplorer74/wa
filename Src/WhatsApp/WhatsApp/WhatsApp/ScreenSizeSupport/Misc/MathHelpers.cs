@@ -6,7 +6,7 @@
 
 using System;
 
-#nullable disable
+
 namespace ScreenSizeSupport.Misc
 {
   public static class MathHelpers

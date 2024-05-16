@@ -12,7 +12,7 @@ using System.Windows.Input;
 using WhatsApp.CommonOps;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupParticipantLogItemControl : CallLogItemControl

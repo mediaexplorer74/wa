@@ -31,7 +31,7 @@ using System.Windows.Threading;
 using Windows.Devices.Geolocation;
 using Windows.System;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ShareLocationPage : PhoneApplicationPage

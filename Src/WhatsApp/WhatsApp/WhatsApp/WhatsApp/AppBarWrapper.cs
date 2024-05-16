@@ -9,7 +9,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class AppBarWrapper

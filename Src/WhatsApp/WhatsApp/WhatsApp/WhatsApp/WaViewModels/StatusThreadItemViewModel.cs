@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class StatusThreadItemViewModel : StatusItemViewModel

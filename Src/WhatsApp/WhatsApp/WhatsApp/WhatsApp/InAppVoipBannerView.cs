@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class InAppVoipBannerView : Grid, IInAppFloatingBannerView

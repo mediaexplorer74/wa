@@ -10,7 +10,7 @@ using System.IO;
 using System.Windows;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class StatusItemViewModel : JidItemViewModel

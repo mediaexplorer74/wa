@@ -14,7 +14,7 @@ using Windows.ApplicationModel;
 using Windows.Phone.Management.Deployment;
 using Windows.System;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class NavUtils

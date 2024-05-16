@@ -30,7 +30,7 @@ using WhatsApp.CommonOps;
 using WhatsAppNative;
 using Windows.Phone.Media.Capture;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CameraPage : PhoneApplicationPage

@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class BackKeyBroker

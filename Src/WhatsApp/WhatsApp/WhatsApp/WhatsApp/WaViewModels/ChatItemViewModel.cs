@@ -14,7 +14,7 @@ using System.Windows;
 using System.Windows.Media;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class ChatItemViewModel : JidItemViewModel

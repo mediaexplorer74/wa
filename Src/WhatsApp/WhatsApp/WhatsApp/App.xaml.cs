@@ -132,7 +132,7 @@ using WhatsAppNative;
 using Windows.ApplicationModel;
 using Windows.Phone.Management.Deployment;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class App : Application

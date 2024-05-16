@@ -21,7 +21,7 @@ using WhatsApp.CommonOps;
 using WhatsApp.WaCollections;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupCreationPage : PhoneApplicationPage

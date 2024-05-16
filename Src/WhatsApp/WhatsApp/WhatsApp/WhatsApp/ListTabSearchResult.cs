@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ListTabSearchResult

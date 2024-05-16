@@ -20,7 +20,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Navigation;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MessageDetailPage : PhoneApplicationPage

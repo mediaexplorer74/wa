@@ -12,7 +12,7 @@ using System.Windows;
 using System.Windows.Controls;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PhoneNumberEntryControl : UserControl

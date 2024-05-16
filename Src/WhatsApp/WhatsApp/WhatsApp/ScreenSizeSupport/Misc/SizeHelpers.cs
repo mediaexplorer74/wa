@@ -7,7 +7,7 @@
 using System;
 using System.Windows;
 
-#nullable disable
+
 namespace ScreenSizeSupport.Misc
 {
   public static class SizeHelpers

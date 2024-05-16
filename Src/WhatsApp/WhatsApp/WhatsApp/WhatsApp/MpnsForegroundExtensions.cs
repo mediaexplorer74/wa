@@ -8,7 +8,7 @@ using Microsoft.Phone.Notification;
 using Microsoft.Phone.Reactive;
 using System;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class MpnsForegroundExtensions

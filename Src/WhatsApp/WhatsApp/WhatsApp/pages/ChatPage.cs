@@ -39,7 +39,7 @@ using Windows.Storage.FileProperties;
 using Windows.Storage.Pickers;
 using Windows.Storage.Streams;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatPage : PhoneApplicationPage, IMessageLoadingHandler, GifSendingPage

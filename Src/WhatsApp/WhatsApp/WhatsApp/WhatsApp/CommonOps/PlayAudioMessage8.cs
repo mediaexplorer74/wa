@@ -10,7 +10,7 @@ using Microsoft.Xna.Framework;
 using System;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   internal class PlayAudioMessage8 : PlayAudioMessage

@@ -18,7 +18,7 @@ using WhatsApp.CommonOps;
 using WhatsApp.CompatibilityShims;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class OwnStatusList : UserControl, IDisposable

@@ -8,7 +8,7 @@ using Microsoft.Phone.Tasks;
 using System;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp.verify
 {
   public static class RegResultExtensions

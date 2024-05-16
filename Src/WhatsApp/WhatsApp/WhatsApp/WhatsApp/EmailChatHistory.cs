@@ -8,7 +8,7 @@ using Microsoft.Phone.Reactive;
 using System;
 using System.Collections.Generic;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public abstract class EmailChatHistory

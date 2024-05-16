@@ -23,7 +23,7 @@ using WhatsApp.Streaming;
 using WhatsApp.UtilsFrontend;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WaStatusViewControl : 

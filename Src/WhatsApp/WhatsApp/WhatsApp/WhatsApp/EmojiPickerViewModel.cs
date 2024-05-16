@@ -16,7 +16,7 @@ using System.Windows.Media;
 using System.Windows.Threading;
 using WhatsApp.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class EmojiPickerViewModel : PropChangedBase

@@ -7,7 +7,7 @@
 using System;
 using System.Collections.Generic;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class LiveLocationParticipantViewModel : UserViewModel

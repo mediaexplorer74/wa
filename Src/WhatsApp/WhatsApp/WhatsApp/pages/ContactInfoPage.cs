@@ -22,7 +22,7 @@ using WhatsApp.CommonOps;
 using WhatsApp.ContactClasses;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ContactInfoPage : PhoneApplicationPage

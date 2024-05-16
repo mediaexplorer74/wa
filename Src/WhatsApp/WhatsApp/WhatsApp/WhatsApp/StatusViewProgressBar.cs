@@ -10,7 +10,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media.Animation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class StatusViewProgressBar : Grid

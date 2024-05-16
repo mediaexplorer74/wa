@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Windows.Input;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class TimeSpentManager

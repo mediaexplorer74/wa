@@ -18,7 +18,7 @@ using System.Windows.Input;
 using System.Windows.Media.Animation;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class SetupTwoFactor : PhoneApplicationPage

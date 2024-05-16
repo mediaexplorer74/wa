@@ -6,7 +6,7 @@
 
 using System;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   public static class PinToStart

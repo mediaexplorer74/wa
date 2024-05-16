@@ -21,7 +21,7 @@ using System.Windows.Shapes;
 using WhatsApp.WaCollections;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatInputBar : UserControl, IWaInputBar

@@ -14,7 +14,7 @@ using System.Windows.Markup;
 using System.Windows.Media;
 using System.Windows.Media.Animation;
 
-#nullable disable
+
 namespace WhatsApp.CompatibilityShims
 {
   public class LongListSelector : Microsoft.Phone.Controls.LongListSelector

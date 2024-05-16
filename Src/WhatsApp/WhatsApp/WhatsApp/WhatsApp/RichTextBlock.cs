@@ -13,7 +13,7 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class RichTextBlock : RichTextBox

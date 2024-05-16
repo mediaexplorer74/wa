@@ -17,7 +17,7 @@ using System.Windows.Input;
 using System.Windows.Navigation;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ProfilePage : PhoneApplicationPage

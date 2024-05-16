@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Shapes;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   internal class LocationMessageViewPanel : MessageViewPanel

@@ -23,7 +23,7 @@ using System.Windows.Navigation;
 using WhatsApp.ContactClasses;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PhoneContactPickerPage : PhoneApplicationPage

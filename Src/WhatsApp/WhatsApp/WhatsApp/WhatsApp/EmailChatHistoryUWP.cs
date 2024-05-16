@@ -16,7 +16,7 @@ using Windows.ApplicationModel.Email;
 using Windows.Foundation;
 using Windows.Storage.Streams;
 
-#nullable disable
+
 namespace WhatsApp
 {
   internal class EmailChatHistoryUWP : EmailChatHistory

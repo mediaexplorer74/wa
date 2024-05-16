@@ -8,7 +8,7 @@ using Microsoft.Phone.Reactive;
 using System;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   public class PlayAudioMessage : WaDisposable

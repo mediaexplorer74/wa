@@ -14,7 +14,7 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using WhatsApp.RegularExpressions;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChangeDecriptionPage : PhoneApplicationPage

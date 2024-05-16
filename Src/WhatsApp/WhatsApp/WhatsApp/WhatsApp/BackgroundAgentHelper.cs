@@ -15,7 +15,7 @@ using System.Threading;
 using System.Windows;
 using Windows.ApplicationModel.Background;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class BackgroundAgentHelper

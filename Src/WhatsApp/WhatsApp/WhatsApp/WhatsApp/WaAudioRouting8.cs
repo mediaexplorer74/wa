@@ -9,7 +9,7 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Phone.Media.Devices;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WaAudioRouting8 : WaAudioRouting

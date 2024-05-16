@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class CallLogItemViewModel : UserViewModel

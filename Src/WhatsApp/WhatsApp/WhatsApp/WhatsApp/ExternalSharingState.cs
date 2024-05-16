@@ -12,7 +12,7 @@ using System.Windows;
 using System.Windows.Media.Imaging;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ExternalSharingState : MediaSharingState

@@ -8,7 +8,7 @@ using Microsoft.Phone.Controls;
 using System;
 using System.Windows.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public interface IWaInputBar

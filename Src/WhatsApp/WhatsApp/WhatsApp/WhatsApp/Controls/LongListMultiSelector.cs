@@ -17,7 +17,7 @@ using System.Windows.Data;
 using System.Windows.Media;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp.Controls
 {
   [StyleTypedProperty(Property = "ItemContainerStyle", StyleTargetType = typeof (LongListMultiSelectorItem))]

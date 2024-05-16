@@ -12,7 +12,7 @@ using System.ComponentModel;
 using System.Windows;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class ProfilePageViewModel : PageViewModelBase

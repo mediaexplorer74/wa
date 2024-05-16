@@ -7,7 +7,7 @@
 using System.IO;
 using System.Text;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WavWriter

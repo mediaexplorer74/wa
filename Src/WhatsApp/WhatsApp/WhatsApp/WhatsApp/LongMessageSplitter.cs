@@ -11,7 +11,7 @@ using System.Windows;
 using System.Windows.Controls;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class LongMessageSplitter

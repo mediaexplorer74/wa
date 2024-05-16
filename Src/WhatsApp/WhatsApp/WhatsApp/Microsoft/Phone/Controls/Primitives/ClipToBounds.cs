@@ -7,7 +7,7 @@
 using System.Windows;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace Microsoft.Phone.Controls.Primitives
 {
   public class ClipToBounds : DependencyObject

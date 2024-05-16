@@ -7,7 +7,7 @@
 using System.Net;
 using System.Text;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class DeepLinkData

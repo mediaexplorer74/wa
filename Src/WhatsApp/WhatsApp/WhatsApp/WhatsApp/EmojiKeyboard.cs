@@ -21,7 +21,7 @@ using WhatsApp.WaCollections;
 using Windows.Foundation;
 using Windows.UI.ViewManagement;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class EmojiKeyboard : UserControl

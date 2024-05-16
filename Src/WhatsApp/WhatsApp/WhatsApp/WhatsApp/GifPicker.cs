@@ -17,7 +17,7 @@ using System.Windows.Shapes;
 using WhatsApp.Events;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GifPicker : UserControl

@@ -11,7 +11,7 @@ using System.Linq;
 using System.Windows;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class NotificationSettingsPageViewModel : PageViewModelBase

@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class RoundButton : UserControl

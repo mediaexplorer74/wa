@@ -7,7 +7,7 @@
 using System;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class UrlMessageViewModel : TextMessageViewModel

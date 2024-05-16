@@ -16,7 +16,7 @@ using System.Windows.Controls.Primitives;
 using System.Windows.Media;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PopupManager

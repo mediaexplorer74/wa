@@ -16,7 +16,7 @@ using WhatsApp.CommonOps;
 using WhatsApp.CompatibilityShims;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class DocsTabView : UserControl

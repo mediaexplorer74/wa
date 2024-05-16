@@ -21,7 +21,7 @@ using WhatsApp.WaCollections;
 using WhatsApp.WaViewModels;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MediaPickerPage : PhoneApplicationPage

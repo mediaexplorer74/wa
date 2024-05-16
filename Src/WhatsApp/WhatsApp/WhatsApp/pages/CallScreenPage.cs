@@ -27,7 +27,7 @@ using WhatsAppNative;
 using Windows.Devices.Sensors;
 using Windows.Foundation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CallScreenPage : PhoneApplicationPage

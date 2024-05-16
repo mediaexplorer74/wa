@@ -7,7 +7,7 @@
 using Microsoft.Phone.Controls;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public abstract class EditParticipantsPageViewModel : MultiParticipantsChatViewModelBase

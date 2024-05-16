@@ -6,7 +6,7 @@
 
 using System.Globalization;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CharGroupings

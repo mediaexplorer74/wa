@@ -21,7 +21,7 @@ using System.Windows.Navigation;
 using WhatsApp.RegularExpressions;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupParticipantPickerPage : PhoneApplicationPage

@@ -31,7 +31,7 @@ using Windows.Storage;
 using ZXing;
 using ZXing.QrCode;
 
-#nullable disable
+
 namespace WhatsApp.Pages
 {
   public class IdentityVerificationPage : PhoneApplicationPage

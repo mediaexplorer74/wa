@@ -8,7 +8,7 @@ using Microsoft.Phone.Reactive;
 using System;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class GroupParticipantLogItemViewModel : UserViewModel

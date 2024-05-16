@@ -7,7 +7,7 @@
 using System.Collections.Generic;
 using System.Windows.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class DrawingArgs

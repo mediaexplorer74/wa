@@ -19,7 +19,7 @@ using System.Windows.Documents;
 using System.Windows.Media;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PhoneNumberEntry : PhoneApplicationPage

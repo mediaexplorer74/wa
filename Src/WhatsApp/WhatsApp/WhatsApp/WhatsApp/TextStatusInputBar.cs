@@ -17,7 +17,7 @@ using System.Windows.Media;
 using WhatsApp.WaCollections;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class TextStatusInputBar : UserControl, IWaInputBar

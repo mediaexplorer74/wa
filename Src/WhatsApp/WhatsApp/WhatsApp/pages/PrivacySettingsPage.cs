@@ -14,7 +14,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PrivacySettingsPage : PhoneApplicationPage

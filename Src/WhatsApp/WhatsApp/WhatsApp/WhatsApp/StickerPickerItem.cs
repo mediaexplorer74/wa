@@ -11,7 +11,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class StickerPickerItem : UserControl

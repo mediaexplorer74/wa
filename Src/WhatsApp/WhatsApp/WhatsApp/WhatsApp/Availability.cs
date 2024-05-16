@@ -6,7 +6,7 @@
 
 using System.Runtime.Serialization;
 
-#nullable disable
+
 namespace WhatsApp
 {
   [DataContract]

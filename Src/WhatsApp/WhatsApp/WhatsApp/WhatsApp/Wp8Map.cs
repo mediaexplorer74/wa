@@ -12,7 +12,7 @@ using System;
 using System.Device.Location;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class Wp8Map : MapImplBase

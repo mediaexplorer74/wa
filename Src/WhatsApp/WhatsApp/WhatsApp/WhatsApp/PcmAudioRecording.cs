@@ -7,7 +7,7 @@
 using System;
 using System.IO;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public abstract class PcmAudioRecording : VoipStackAudioRecording

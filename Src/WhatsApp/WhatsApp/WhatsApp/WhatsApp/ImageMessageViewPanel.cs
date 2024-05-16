@@ -15,7 +15,7 @@ using System.Windows.Media;
 using System.Windows.Shapes;
 using WhatsApp.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ImageMessageViewPanel : MessageViewPanel

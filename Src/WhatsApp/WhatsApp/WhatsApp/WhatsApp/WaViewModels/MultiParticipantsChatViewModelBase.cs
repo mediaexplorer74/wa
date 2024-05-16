@@ -15,7 +15,7 @@ using System.Windows;
 using System.Windows.Input;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public abstract class MultiParticipantsChatViewModelBase : PageViewModelBase

@@ -12,7 +12,7 @@ using System.Threading;
 using System.Windows;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CallScreenHelper : WaDisposable

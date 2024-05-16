@@ -10,7 +10,7 @@ using System.Windows;
 using WhatsApp.CommonOps;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class GroupParticipantViewModel : UserViewModel

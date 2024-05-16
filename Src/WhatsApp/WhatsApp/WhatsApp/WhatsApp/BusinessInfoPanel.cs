@@ -18,7 +18,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class BusinessInfoPanel : UserControl

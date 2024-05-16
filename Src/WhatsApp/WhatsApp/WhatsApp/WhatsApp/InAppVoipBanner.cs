@@ -9,7 +9,7 @@ using System;
 using System.Windows;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class InAppVoipBanner : InAppFloatingBanner

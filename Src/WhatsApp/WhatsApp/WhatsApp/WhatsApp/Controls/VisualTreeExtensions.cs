@@ -7,7 +7,7 @@
 using System.Windows;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp.Controls
 {
   internal static class VisualTreeExtensions

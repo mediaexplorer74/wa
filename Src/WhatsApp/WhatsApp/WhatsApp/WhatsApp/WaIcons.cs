@@ -6,7 +6,7 @@
 
 using System.Windows.Media.Imaging;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WaIcons

@@ -13,7 +13,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatItemControl : ItemControlBase

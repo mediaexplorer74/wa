@@ -10,7 +10,7 @@ using System.Windows;
 using System.Windows.Data;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class SelectedItemToAccentBrushConverter : IValueConverter

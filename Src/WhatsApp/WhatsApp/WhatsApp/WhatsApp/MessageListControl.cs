@@ -19,7 +19,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MessageListControl : UserControl, IMessageListControl

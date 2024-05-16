@@ -9,7 +9,7 @@ using System;
 using System.Windows;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupSettingsPageViewModel : PageViewModelBase

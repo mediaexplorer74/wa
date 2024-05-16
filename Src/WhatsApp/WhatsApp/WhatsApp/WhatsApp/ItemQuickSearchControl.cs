@@ -17,7 +17,7 @@ using System.Windows.Media;
 using WhatsApp.WaCollections;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ItemQuickSearchControl : UserControl

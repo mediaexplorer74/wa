@@ -8,7 +8,7 @@ using System;
 using System.Text;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ContactCallLogItemViewModel : WaViewModelBase

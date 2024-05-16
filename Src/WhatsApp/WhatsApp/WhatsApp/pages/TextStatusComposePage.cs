@@ -16,7 +16,7 @@ using System.Windows.Media;
 using System.Windows.Navigation;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class TextStatusComposePage : PhoneApplicationPage

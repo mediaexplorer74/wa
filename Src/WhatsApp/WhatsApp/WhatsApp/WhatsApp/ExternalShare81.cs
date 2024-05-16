@@ -19,7 +19,7 @@ using Windows.Storage;
 using Windows.Storage.FileProperties;
 using Windows.Storage.Streams;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ExternalShare81 : IExternalShare

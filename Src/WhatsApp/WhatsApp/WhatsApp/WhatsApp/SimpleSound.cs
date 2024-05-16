@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.IO;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class SimpleSound : SimpleSoundBase<SoundEffect>

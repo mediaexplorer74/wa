@@ -9,7 +9,7 @@ using Microsoft.Phone.Reactive;
 using Microsoft.Phone.Shell;
 using System;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MpnsForeground : IPushSystemForeground

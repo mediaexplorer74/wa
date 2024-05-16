@@ -11,7 +11,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MessageViewModelCollection : WaDisposable

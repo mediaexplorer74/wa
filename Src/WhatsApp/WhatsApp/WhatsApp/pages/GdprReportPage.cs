@@ -21,7 +21,7 @@ using System.Windows.Navigation;
 using Windows.ApplicationModel.DataTransfer;
 using Windows.Foundation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GdprReportPage : PhoneApplicationPage

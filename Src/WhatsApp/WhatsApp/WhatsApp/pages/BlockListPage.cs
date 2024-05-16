@@ -19,7 +19,7 @@ using System.Windows.Navigation;
 using WhatsApp.CommonOps;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class BlockListPage : PhoneApplicationPage

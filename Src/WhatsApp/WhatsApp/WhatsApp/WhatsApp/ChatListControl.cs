@@ -20,7 +20,7 @@ using System.Windows.Media;
 using WhatsApp.Controls;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatListControl : UserControl, IChatListControl

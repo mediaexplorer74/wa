@@ -8,7 +8,7 @@ using System.Collections.Generic;
 using System.Linq;
 using WhatsApp.RegularExpressions;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class RegexSearch : SearchMethodBase

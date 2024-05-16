@@ -15,7 +15,7 @@ using System.Windows;
 using WhatsApp.ContactClasses;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ContactInfoPageData : WaDisposable

@@ -8,7 +8,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PaymentMessageViewPanel : MessageViewPanel

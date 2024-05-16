@@ -8,7 +8,7 @@ using Microsoft.Phone.Reactive;
 using System;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class StatusReadRecipientViewModel : WaViewModelBase

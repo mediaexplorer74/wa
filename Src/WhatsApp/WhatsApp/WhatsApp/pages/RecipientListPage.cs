@@ -22,7 +22,7 @@ using System.Windows.Navigation;
 using WhatsApp.WaCollections;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class RecipientListPage : PhoneApplicationPage

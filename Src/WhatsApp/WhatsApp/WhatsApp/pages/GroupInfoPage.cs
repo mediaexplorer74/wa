@@ -21,7 +21,7 @@ using System.Windows.Shapes;
 using WhatsApp.CommonOps;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupInfoPage : PhoneApplicationPage

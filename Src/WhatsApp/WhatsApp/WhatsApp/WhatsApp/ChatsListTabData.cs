@@ -13,7 +13,7 @@ using System.Windows;
 using System.Windows.Markup;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatsListTabData : ListTabData

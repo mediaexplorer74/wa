@@ -19,7 +19,7 @@ using System.Windows.Navigation;
 using WhatsAppNative;
 using Windows.Networking.Connectivity;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class BackgroundDataDisabledPage : PhoneApplicationPage

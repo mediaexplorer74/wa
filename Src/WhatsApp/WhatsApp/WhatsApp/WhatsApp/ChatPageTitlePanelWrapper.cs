@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Navigation;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatPageTitlePanelWrapper : Grid

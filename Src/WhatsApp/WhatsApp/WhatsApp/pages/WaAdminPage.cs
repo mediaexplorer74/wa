@@ -21,7 +21,7 @@ using System.Windows.Navigation;
 using WhatsApp.WaViewModels;
 using Windows.Security.Authentication.OnlineId;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WaAdminPage : PhoneApplicationPage

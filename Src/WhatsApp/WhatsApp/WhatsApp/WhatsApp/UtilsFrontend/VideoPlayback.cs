@@ -17,7 +17,7 @@ using WhatsApp.Events;
 using WhatsApp.Pages;
 using WhatsApp.Streaming;
 
-#nullable disable
+
 namespace WhatsApp.UtilsFrontend
 {
   public class VideoPlayback : IDisposable

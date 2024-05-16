@@ -16,7 +16,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ImageSlideViewControl : UserControl

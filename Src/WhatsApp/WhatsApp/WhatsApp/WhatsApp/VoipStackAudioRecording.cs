@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 using System.Windows;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public abstract class VoipStackAudioRecording : AudioRecording, ISampleSink

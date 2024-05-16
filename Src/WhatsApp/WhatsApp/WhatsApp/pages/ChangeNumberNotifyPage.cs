@@ -16,7 +16,7 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChangeNumberNotifyPage : PhoneApplicationPage

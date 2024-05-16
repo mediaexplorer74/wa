@@ -11,7 +11,7 @@ using System.Windows.Controls;
 using System.Windows.Input;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   internal class SystemMessageViewPanel : MessageViewPanel

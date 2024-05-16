@@ -8,7 +8,7 @@ using Microsoft.Devices;
 using Microsoft.Phone.Reactive;
 using System;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class InAppRinger

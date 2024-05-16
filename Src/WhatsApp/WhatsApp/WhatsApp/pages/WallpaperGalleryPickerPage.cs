@@ -20,7 +20,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WallpaperGalleryPickerPage : PhoneApplicationPage

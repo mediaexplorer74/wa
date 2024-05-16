@@ -11,7 +11,7 @@ using System.Collections.Generic;
 using System.Windows;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GdprReportPageViewModel : PageViewModelBase

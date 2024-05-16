@@ -18,7 +18,7 @@ using WhatsApp.CommonOps;
 using Windows.ApplicationModel.DataTransfer;
 using Windows.Foundation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupInviteLinkPage : PhoneApplicationPage

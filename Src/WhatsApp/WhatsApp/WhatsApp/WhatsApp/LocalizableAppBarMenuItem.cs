@@ -6,7 +6,7 @@
 
 using Microsoft.Phone.Shell;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class LocalizableAppBarMenuItem : ApplicationBarMenuItem

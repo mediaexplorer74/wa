@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using Windows.Phone.Media.Capture;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class WACamera : IWACamera

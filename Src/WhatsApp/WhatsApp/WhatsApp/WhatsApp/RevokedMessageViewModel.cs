@@ -9,7 +9,7 @@ using System.Windows;
 using System.Windows.Media.Imaging;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class RevokedMessageViewModel : MessageViewModel

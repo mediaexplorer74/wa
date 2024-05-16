@@ -11,7 +11,7 @@ using System.Windows;
 using System.Windows.Media;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class SysTrayHelper

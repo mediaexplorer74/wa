@@ -17,7 +17,7 @@ using System.Windows.Input;
 using System.Windows.Navigation;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PushNameEntry : PhoneApplicationPage

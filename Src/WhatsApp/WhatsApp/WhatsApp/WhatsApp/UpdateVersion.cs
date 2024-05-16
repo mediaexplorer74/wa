@@ -16,7 +16,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using Windows.System;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class UpdateVersion : PhoneApplicationPage

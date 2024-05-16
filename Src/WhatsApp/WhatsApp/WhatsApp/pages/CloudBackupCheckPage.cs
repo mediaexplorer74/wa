@@ -17,7 +17,7 @@ using WhatsAppNative;
 using Windows.Foundation;
 using Windows.Security.Authentication.OnlineId;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CloudBackupCheckPage : PhoneApplicationPage

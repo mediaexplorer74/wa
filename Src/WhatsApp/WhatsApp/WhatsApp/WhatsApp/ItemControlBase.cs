@@ -18,7 +18,7 @@ using System.Windows.Media.Animation;
 using WhatsApp.WaCollections;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ItemControlBase : Grid

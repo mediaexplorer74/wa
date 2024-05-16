@@ -17,7 +17,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ChatListControlLB : UserControl, IChatListControl

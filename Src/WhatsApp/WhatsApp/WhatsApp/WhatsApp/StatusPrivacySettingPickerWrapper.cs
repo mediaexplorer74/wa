@@ -14,7 +14,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class StatusPrivacySettingPickerWrapper

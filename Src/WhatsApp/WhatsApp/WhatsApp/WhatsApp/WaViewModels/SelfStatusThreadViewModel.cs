@@ -8,7 +8,7 @@ using Microsoft.Phone.Reactive;
 using System;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class SelfStatusThreadViewModel : StatusThreadItemViewModel

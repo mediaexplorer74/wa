@@ -15,7 +15,7 @@ using System.Windows.Controls;
 using System.Windows.Navigation;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class CallRatingPage : PhoneApplicationPage

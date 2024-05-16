@@ -18,7 +18,7 @@ using WhatsAppNative;
 using Windows.Storage;
 using Windows.System;
 
-#nullable disable
+
 namespace WhatsApp.CommonOps
 {
   public static class ViewMessage

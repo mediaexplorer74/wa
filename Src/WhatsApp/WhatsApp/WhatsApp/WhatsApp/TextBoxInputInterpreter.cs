@@ -6,7 +6,7 @@
 
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class TextBoxInputInterpreter

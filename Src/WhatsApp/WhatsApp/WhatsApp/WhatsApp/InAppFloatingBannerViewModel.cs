@@ -11,7 +11,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class InAppFloatingBannerViewModel : WaViewModelBase

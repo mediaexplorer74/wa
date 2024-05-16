@@ -16,7 +16,7 @@ using System.Windows.Media.Imaging;
 using WhatsApp.CommonOps;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MediaTabView : UserControl

@@ -13,7 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using System.Windows.Shapes;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MapDraggablePin : UserControl

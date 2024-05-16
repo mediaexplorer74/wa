@@ -10,7 +10,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Media.Animation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class LargeEmojiMessageViewModel : MessageViewModel

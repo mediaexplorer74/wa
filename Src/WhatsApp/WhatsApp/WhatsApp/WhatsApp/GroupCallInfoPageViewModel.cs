@@ -7,7 +7,7 @@
 using Microsoft.Phone.Controls;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class GroupCallInfoPageViewModel : PageViewModelBase

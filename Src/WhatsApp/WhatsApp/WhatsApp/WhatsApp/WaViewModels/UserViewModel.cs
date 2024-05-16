@@ -9,7 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class UserViewModel : JidItemViewModel

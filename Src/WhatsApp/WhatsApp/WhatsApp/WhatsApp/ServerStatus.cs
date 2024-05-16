@@ -13,7 +13,7 @@ using System.Net;
 using System.Runtime.Serialization;
 using System.Runtime.Serialization.Json;
 
-#nullable disable
+
 namespace WhatsApp
 {
   [DataContract]

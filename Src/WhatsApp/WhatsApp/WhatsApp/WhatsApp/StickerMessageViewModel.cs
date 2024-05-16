@@ -14,7 +14,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class StickerMessageViewModel : FileMessageViewModelBase

@@ -16,7 +16,7 @@ using System.Windows.Data;
 using System.Windows.Navigation;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ConversationToContextMenuConverter : IValueConverter

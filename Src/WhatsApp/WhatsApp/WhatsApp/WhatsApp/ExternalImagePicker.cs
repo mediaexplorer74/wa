@@ -17,7 +17,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Threading;
 using WhatsApp.CommonOps;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ExternalImagePicker : UserControl

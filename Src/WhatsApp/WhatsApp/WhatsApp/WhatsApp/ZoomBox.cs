@@ -10,7 +10,7 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
 
-#nullable disable
+
 namespace WhatsApp
 {
   [TemplatePart(Name = "contentHolder", Type = typeof (UIElement))]

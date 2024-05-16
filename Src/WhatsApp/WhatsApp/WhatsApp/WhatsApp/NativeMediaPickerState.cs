@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using Windows.Storage;
 using Windows.Storage.Streams;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class NativeMediaPickerState : MediaSharingState

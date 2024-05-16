@@ -9,7 +9,7 @@ using System;
 using System.Windows;
 using Windows.Graphics.Display;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ResolutionHelper

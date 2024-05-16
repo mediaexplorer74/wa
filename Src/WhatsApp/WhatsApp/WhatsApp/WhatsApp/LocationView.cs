@@ -20,7 +20,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class LocationView : PhoneApplicationPage

@@ -12,7 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Animation;
 using WhatsApp.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class SelectableMessageListItem : LongListMultiSelectorItem

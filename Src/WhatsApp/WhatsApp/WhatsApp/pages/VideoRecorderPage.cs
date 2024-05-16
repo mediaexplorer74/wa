@@ -23,7 +23,7 @@ using System.Windows.Shapes;
 using System.Windows.Threading;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class VideoRecorderPage : PhoneApplicationPage

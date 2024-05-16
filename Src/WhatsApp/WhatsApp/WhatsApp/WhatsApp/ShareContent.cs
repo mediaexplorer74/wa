@@ -18,7 +18,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using WhatsAppCommon;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class ShareContent : PhoneApplicationPage

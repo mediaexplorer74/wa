@@ -6,7 +6,7 @@
 
 using Microsoft.Phone.Controls;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class BroadcastInfoPageViewModel : MultiParticipantsChatInfoPageViewModel

@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using WhatsApp.WaCollections;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class ChatPageViewModel : PageViewModelBase

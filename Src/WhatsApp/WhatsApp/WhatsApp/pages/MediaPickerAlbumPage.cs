@@ -19,7 +19,7 @@ using System.Windows.Navigation;
 using System.Windows.Threading;
 using WhatsAppNative;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MediaPickerAlbumPage : PhoneApplicationPage

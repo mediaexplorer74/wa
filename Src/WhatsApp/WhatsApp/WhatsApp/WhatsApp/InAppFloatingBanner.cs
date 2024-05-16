@@ -10,7 +10,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Controls.Primitives;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class InAppFloatingBanner

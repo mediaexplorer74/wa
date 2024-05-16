@@ -10,7 +10,7 @@ using System;
 using System.Collections;
 using System.Globalization;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class Localizable

@@ -10,7 +10,7 @@ using System;
 using System.ComponentModel;
 using System.Windows;
 
-#nullable disable
+
 namespace ScreenSizeSupport
 {
   public class DisplayInformationEx

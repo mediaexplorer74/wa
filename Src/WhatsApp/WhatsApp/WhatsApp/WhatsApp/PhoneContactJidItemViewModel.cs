@@ -8,7 +8,7 @@ using System.IO;
 using System.Windows.Media.Imaging;
 using WhatsApp.WaViewModels;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class PhoneContactJidItemViewModel : JidItemViewModel

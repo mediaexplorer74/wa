@@ -9,7 +9,7 @@ using System.IO;
 using System.Windows;
 using System.Windows.Controls;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MediaElementWrapper : IWaMediaPlayer

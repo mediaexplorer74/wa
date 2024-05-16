@@ -6,7 +6,7 @@
 
 using System;
 
-#nullable disable
+
 namespace WhatsApp.Controls
 {
   public class SingleSelectionChangedArgs : EventArgs

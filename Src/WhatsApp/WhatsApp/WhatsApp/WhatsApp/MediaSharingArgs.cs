@@ -7,7 +7,7 @@
 using System;
 using System.Windows.Navigation;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class MediaSharingArgs

@@ -6,7 +6,7 @@
 
 using System;
 
-#nullable disable
+
 namespace WhatsApp.WaViewModels
 {
   public class MessageResultViewModel : ChatItemViewModel

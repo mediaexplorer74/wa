@@ -13,7 +13,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Threading;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public class AudioPlaybackManager : WaDisposable

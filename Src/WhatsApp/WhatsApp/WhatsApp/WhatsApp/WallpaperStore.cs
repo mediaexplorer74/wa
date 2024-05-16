@@ -14,7 +14,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using WhatsApp.RegularExpressions;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public static class WallpaperStore

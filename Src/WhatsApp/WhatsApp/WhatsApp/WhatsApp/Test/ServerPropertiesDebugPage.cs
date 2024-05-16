@@ -14,7 +14,7 @@ using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
 
-#nullable disable
+
 namespace WhatsApp.Test
 {
   public class ServerPropertiesDebugPage : PhoneApplicationPage

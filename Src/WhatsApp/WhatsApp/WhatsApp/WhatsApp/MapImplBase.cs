@@ -11,7 +11,7 @@ using System.Device.Location;
 using System.Linq;
 using System.Windows;
 
-#nullable disable
+
 namespace WhatsApp
 {
   public abstract class MapImplBase : MapImplementation
